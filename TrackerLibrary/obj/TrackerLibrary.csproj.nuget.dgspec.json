@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Palak Patel\\source\\repos\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Palak Patel\\source\\repos\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Palak Patel\\source\\repos\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectName": "TrackerLibrary",
+        "projectPath": "C:\\Users\\Palak Patel\\source\\repos\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+        "packagesPath": "C:\\Users\\Palak Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Palak Patel\\source\\repos\\TournamentTracker\\TrackerLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Palak Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper.StrongName": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "LH.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
