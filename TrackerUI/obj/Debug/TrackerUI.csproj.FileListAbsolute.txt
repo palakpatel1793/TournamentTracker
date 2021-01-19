@@ -1,5 +1,5 @@
-C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.dll.config
-C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.dll
+C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\System.Data.SqlClient.dll
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\System.Security.AccessControl.dll
@@ -12,14 +12,14 @@ C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\System.S
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\System.Security.Permissions.xml
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\bin\Debug\System.Security.Principal.Windows.xml
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
-C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
-C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Form1.resources
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
-C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.dll
+C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
 C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\Palak Patel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources

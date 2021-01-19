@@ -18,7 +18,7 @@ namespace TrackerUI
         public CreatePrizeForm()
         {
             InitializeComponent();
-            
+           // callingForm = caller;
         }
 
         private void createPrizeButton_Click(object sender, EventArgs e)
@@ -33,20 +33,19 @@ namespace TrackerUI
 
                 GlobalConfig.Connection.CreatePrize(model);
 
-                callingForm.PrizeComplete(model);
+                //callingForm.PrizeComplete(model);
 
-                this.Close();
-                //placeNameValue.Text = "";
-                //placeNumberValue.Text = "";
-                //prizeAmountValue.Text = "0";
-                //prizePercentageValue.Text = "0";
+            //     this.Close();
+                placeNameValue.Text = "";
+                placeNumberValue.Text = "";
+                prizeAmountValue.Text = "0";
+                prizePercentageValue.Text = "0";
             }
             else
             {
                 MessageBox.Show("This Form has invalid information. Please check it and try again.");
             }
         }
-
         private bool validateForm()
         {
             bool output = true;
@@ -86,16 +85,5 @@ namespace TrackerUI
 
             return output;
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        public void PrizeComplete(PrizeModel model)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
-
