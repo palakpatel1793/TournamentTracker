@@ -32,7 +32,7 @@ namespace TrackerLibrary.Models
             PrizeAmount = prizeAmountValue;
 
             double prizePercentageValue = 0;
-            double.TryParse(prizeAmount, out prizePercentageValue);
+            double.TryParse(prizePercentage, out prizePercentageValue);
             PrizePercentage = prizePercentageValue;
         }
 
